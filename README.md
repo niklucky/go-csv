@@ -1,0 +1,1 @@
+# CSV mapper for Go project
